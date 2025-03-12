@@ -2,7 +2,7 @@
 
 一個蒐集天空哥語錄並可以查詢並回應的DC機器人，沒什麼阮用。存屬好玩
 
-![sample1]('/data/img/sample1.png')
+![sample1]("./data/img/sample1.png")
 
 ![sample2]('/data/img/sample2.png')
 
